@@ -1,0 +1,20 @@
+{
+  "baseUrl": "https://www.hsnb.io",
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "defaultCommandTimeout": 12000,
+  "chromeWebSecurity": false,
+  "projectId": "yjhyab",
+  "firefoxGcInterval": 2,
+  "theme": "dark",
+  "blacklistHosts": "www.google-analytics.com",
+  "env": {
+    "authUsername": "staging",
+    "authPassword": "hsnb",
+    "cardGeneric": "4111111111111111",
+    "card3DRequired": "4000000000003220",
+    "apiUrl": "https://ec-shop-api.hsnb.io/",
+    "testEmail": "test.automation@highsnobiety.com",
+    "testPassword": "CorrectPassword1"
+  }
+}
